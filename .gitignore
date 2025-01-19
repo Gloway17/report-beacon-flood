@@ -2,4 +2,4 @@
 *.stash
 *.user
 Makefile
-airodump
+beacon-flood
